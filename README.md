@@ -1,4 +1,3 @@
 # Kaito
 
-print("Hello World")
-Yeah yeah
+Sample Python code
